@@ -36,7 +36,7 @@
 
   <!-- Image and Bookmark -->
   <a href="#bookmark">
-    <img src="banner.png" alt="alternate description here" width="400">
+    <img src="banner.jpg" alt="alternate description here" width="400">
   </a>
 
   <br><br>
